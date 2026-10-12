@@ -1,0 +1,137 @@
+{
+  "air pollution cardiovascular disease": [
+    {
+      "rank": 1,
+      "doc_id": "OA-W2150751323",
+      "relevant": true
+    },
+    {
+      "rank": 2,
+      "doc_id": "OA-W2318698569",
+      "relevant": true
+    },
+    {
+      "rank": 3,
+      "doc_id": "OA-W3007246056",
+      "relevant": true
+    },
+    {
+      "rank": 4,
+      "doc_id": "OA-W2166604768",
+      "relevant": true
+    },
+    {
+      "rank": 5,
+      "doc_id": "OA-W2607350314",
+      "relevant": true
+    }
+  ],
+  "air pollution respiratory disease": [
+    {
+      "rank": 1,
+      "doc_id": "OA-W2318698569",
+      "relevant": true
+    },
+    {
+      "rank": 2,
+      "doc_id": "OA-W3007246056",
+      "relevant": true
+    },
+    {
+      "rank": 3,
+      "doc_id": "OA-W2607350314",
+      "relevant": true
+    },
+    {
+      "rank": 4,
+      "doc_id": "OA-W2166604768",
+      "relevant": true
+    },
+    {
+      "rank": 5,
+      "doc_id": "OA-W2140282454",
+      "relevant": true
+    }
+  ],
+  "climate change human health": [
+    {
+      "rank": 1,
+      "doc_id": "OA-W4382363623",
+      "relevant": true
+    },
+    {
+      "rank": 2,
+      "doc_id": "OA-W4382362038",
+      "relevant": true
+    },
+    {
+      "rank": 3,
+      "doc_id": "OA-W2097467169",
+      "relevant": true
+    },
+    {
+      "rank": 4,
+      "doc_id": "OA-W3007246056",
+      "relevant": false
+    },
+    {
+      "rank": 5,
+      "doc_id": "OA-W3120106258",
+      "relevant": false
+    }
+  ],
+  "particulate pollution health": [
+    {
+      "rank": 1,
+      "doc_id": "OA-W2318698569",
+      "relevant": true
+    },
+    {
+      "rank": 2,
+      "doc_id": "OA-W2166604768",
+      "relevant": true
+    },
+    {
+      "rank": 3,
+      "doc_id": "OA-W2130042267",
+      "relevant": true
+    },
+    {
+      "rank": 4,
+      "doc_id": "OA-W2140282454",
+      "relevant": true
+    },
+    {
+      "rank": 5,
+      "doc_id": "OA-W3007246056",
+      "relevant": true
+    }
+  ],
+  "air pollution mortality": [
+    {
+      "rank": 1,
+      "doc_id": "OA-W2318698569",
+      "relevant": true
+    },
+    {
+      "rank": 2,
+      "doc_id": "OA-W2166604768",
+      "relevant": true
+    },
+    {
+      "rank": 3,
+      "doc_id": "OA-W2150751323",
+      "relevant": true
+    },
+    {
+      "rank": 4,
+      "doc_id": "OA-W2607350314",
+      "relevant": true
+    },
+    {
+      "rank": 5,
+      "doc_id": "OA-W2140282454",
+      "relevant": true
+    }
+  ]
+}
